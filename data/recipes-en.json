@@ -1,0 +1,3965 @@
+{
+    "recipes": [
+        {
+            "id": "matbucha",
+            "title": "Matbucha",
+            "originalName": "مطبوخة",
+            "description": "Tomatoes and roasted peppers cooked down slowly into a sweet, gently spicy spread. The dish that opens every Moroccan table.",
+            "category": "Salads & Dips",
+            "kosherType": "Parve",
+            "image": "images/Matbucha.jpg",
+            "prepTime": 15,
+            "cookTime": 60,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "ripe tomatoes",
+                    "quantity": "8",
+                    "unit": ""
+                },
+                {
+                    "name": "red bell peppers",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "garlic cloves, crushed",
+                    "quantity": "6",
+                    "unit": ""
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sweet paprika",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "ground cumin",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "green chili pepper",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Char the peppers over an open flame until blackened. Seal in a bag for 10 minutes, then peel and cut into strips.",
+                "Score the tomatoes, blanch 30 seconds in boiling water, peel and chop roughly.",
+                "Heat the olive oil in a wide pan, add the garlic and fry for 30 seconds only — do not let it brown.",
+                "Add tomatoes, peppers, paprika, cumin and chili. Cook uncovered over low heat for 45–60 minutes, stirring occasionally.",
+                "Once the liquid has evaporated and the mixture is thick and glossy, season with salt and sugar. Serve at room temperature."
+            ],
+            "tags": [
+                "matbucha",
+                "starter",
+                "tomato",
+                "spicy",
+                "classic"
+            ]
+        },
+        {
+            "id": "zaalouk",
+            "title": "Zaalouk — Eggplant Salad",
+            "originalName": "زعلوك",
+            "description": "Eggplant and tomato mashed together with garlic, cumin and coriander into a rich, smoky spread. Perhaps the best-loved salad in Morocco.",
+            "category": "Salads & Dips",
+            "kosherType": "Parve",
+            "image": "images/Zaalouk_Eggplant_Salad.jpg",
+            "prepTime": 15,
+            "cookTime": 40,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "medium eggplants",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "ripe tomatoes",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "garlic cloves, crushed",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "fresh coriander, chopped",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "parsley, chopped",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sweet paprika",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground cumin",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Roast the eggplants at 220°C for about 35 minutes until completely soft and collapsed. Cool, peel and mash.",
+                "Peel and chop the tomatoes. Cook in a pan with olive oil and garlic for about 15 minutes until softened.",
+                "Add the mashed eggplant flesh, paprika and cumin. Continue cooking 15 minutes, mashing with a wooden spoon.",
+                "When the mixture is thick and no liquid remains, turn off the heat and stir in coriander, parsley and lemon juice.",
+                "Season with salt and pepper. Serve warm or at room temperature with fresh bread."
+            ],
+            "tags": [
+                "zaalouk",
+                "eggplant",
+                "dip",
+                "coriander",
+                "starter"
+            ]
+        },
+        {
+            "id": "taktouka",
+            "title": "Taktouka — Roasted Pepper Salad",
+            "originalName": "تكتوكة",
+            "description": "Charred green peppers and tomatoes in olive oil and garlic. Simple, sweet and smoky — served at almost every meal.",
+            "category": "Salads & Dips",
+            "kosherType": "Parve",
+            "image": "images/Taktouka_Pepper_Salad.jpg",
+            "prepTime": 20,
+            "cookTime": 30,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "long green peppers",
+                    "quantity": "6",
+                    "unit": ""
+                },
+                {
+                    "name": "ripe tomatoes",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "garlic cloves",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sweet paprika",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground cumin",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "parsley, chopped",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Char the peppers on a grill or flame until the skin blackens. Wrap in plastic for 10 minutes, peel, deseed and tear into strips.",
+                "Peel the tomatoes (a brief blanch makes this easy) and chop roughly.",
+                "Heat the olive oil with the crushed garlic, add the tomatoes and cook 15 minutes until they break down.",
+                "Add the pepper strips, paprika and cumin. Cook another 10–15 minutes until the liquid reduces.",
+                "Season with salt, scatter over the parsley and serve at room temperature."
+            ],
+            "tags": [
+                "taktouka",
+                "peppers",
+                "roasted",
+                "salad",
+                "starter"
+            ]
+        },
+        {
+            "id": "carrot-salad",
+            "title": "Moroccan Carrot Salad",
+            "originalName": "شلاضة الخيزو",
+            "description": "Cooked carrots in a lemon, garlic and cumin dressing, with a touch of cinnamon to draw out the sweetness. Orange, glossy and addictive.",
+            "category": "Salads & Dips",
+            "kosherType": "Parve",
+            "image": "images/Moroccan_Carrot_Salad.jpg",
+            "prepTime": 10,
+            "cookTime": 15,
+            "servings": 4,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "carrots",
+                    "quantity": "8",
+                    "unit": ""
+                },
+                {
+                    "name": "garlic cloves, crushed",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "ground cumin",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "sweet paprika",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground cinnamon",
+                    "quantity": "1/4",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "coriander, chopped",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Peel the carrots and slice into rounds about half a centimetre thick.",
+                "Boil in salted water for 10–12 minutes — tender but still holding their shape. Drain.",
+                "Whisk together olive oil, lemon juice, garlic, cumin, paprika and cinnamon in a bowl.",
+                "Toss the hot carrots in the dressing — warm they absorb far more. Season with salt.",
+                "Chill at least an hour, and stir in the coriander just before serving."
+            ],
+            "tags": [
+                "carrot",
+                "salad",
+                "lemon",
+                "cumin",
+                "cold"
+            ]
+        },
+        {
+            "id": "beet-salad",
+            "title": "Beetroot Salad with Cumin",
+            "originalName": "شلاضة الشمندر",
+            "description": "Sweet beetroot with cumin, lemon and olive oil. A deep red that balances everything else on the table.",
+            "category": "Salads & Dips",
+            "kosherType": "Parve",
+            "image": "images/Moroccan_Beet_Salad.jpg",
+            "prepTime": 10,
+            "cookTime": 45,
+            "servings": 4,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "medium beetroots",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "ground cumin",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "garlic clove, crushed",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "parsley, chopped",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Wash the beetroots without peeling and boil for 40–45 minutes, until a knife slides in easily.",
+                "Cool slightly, peel by hand (the skin slips off) and cut into cubes.",
+                "Whisk together lemon juice, olive oil, cumin, garlic and sugar.",
+                "Toss the beetroot in the dressing and season with salt.",
+                "Chill for at least half an hour and scatter parsley over before serving."
+            ],
+            "tags": [
+                "beetroot",
+                "salad",
+                "cumin",
+                "cold",
+                "starter"
+            ]
+        },
+        {
+            "id": "preserved-lemons",
+            "title": "Preserved Lemons",
+            "originalName": "الحامض المرقد",
+            "description": "Lemons and nothing but salt, cured for a month into a deep salty flavour with no substitute. The ingredient that makes a tagine a tagine.",
+            "category": "Salads & Dips",
+            "kosherType": "Parve",
+            "image": "images/Preserved_Lemons.jpg",
+            "prepTime": 20,
+            "cookTime": 0,
+            "servings": 12,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "small thin-skinned lemons",
+                    "quantity": "8",
+                    "unit": ""
+                },
+                {
+                    "name": "coarse salt",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "fresh lemon juice",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "bay leaves",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "black peppercorns",
+                    "quantity": "1",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Wash and dry the lemons well. Cut each one lengthwise into quarters — but not all the way through, so the base stays joined.",
+                "Open each lemon and pack the inside generously with coarse salt.",
+                "Press the lemons into a sterilised jar, layer on layer, scattering salt between the layers.",
+                "Add the bay leaves and peppercorns and pour in lemon juice until the lemons are fully covered. Seal tightly.",
+                "Leave at room temperature for 3–4 weeks, turning the jar every couple of days. To use: rinse, discard the pulp and use only the peel."
+            ],
+            "tags": [
+                "preserved lemon",
+                "pickling",
+                "pantry",
+                "tagine",
+                "staple"
+            ]
+        },
+        {
+            "id": "harissa",
+            "title": "Moroccan Harissa",
+            "originalName": "هريسة",
+            "description": "Chili paste with garlic, cumin and caraway. Hot, deep and faintly smoky — one spoonful changes any dish.",
+            "category": "Salads & Dips",
+            "kosherType": "Parve",
+            "image": "images/Moroccan_Harissa.jpg",
+            "prepTime": 20,
+            "cookTime": 5,
+            "servings": 10,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "dried red chilies",
+                    "quantity": "100",
+                    "unit": "g"
+                },
+                {
+                    "name": "garlic cloves",
+                    "quantity": "6",
+                    "unit": ""
+                },
+                {
+                    "name": "cumin seeds",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "coriander seeds",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "caraway seeds",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "coarse salt",
+                    "quantity": "1",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Soak the dried chilies in hot water for 30 minutes until softened. Drain and remove stems and seeds.",
+                "Toast the cumin, coriander and caraway seeds in a dry pan for a minute or two until fragrant. Grind in a mortar.",
+                "Blitz the chilies, garlic, toasted spices and salt in a food processor to a coarse paste.",
+                "Add the olive oil gradually while blending until smooth and glossy, then stir in the lemon juice.",
+                "Transfer to a jar, cover with a layer of olive oil and keep refrigerated for up to a month."
+            ],
+            "tags": [
+                "harissa",
+                "spicy",
+                "chili",
+                "condiment",
+                "pantry"
+            ]
+        },
+        {
+            "id": "chermoula-eggplant",
+            "title": "Eggplant in Chermoula",
+            "originalName": "الباذنجان بالشرمولة",
+            "description": "Fried eggplant slices soaking up chermoula — the coriander, garlic and cumin sauce that runs through the whole Moroccan kitchen.",
+            "category": "Salads & Dips",
+            "kosherType": "Parve",
+            "image": "images/Chermoula_Eggplant.jpg",
+            "prepTime": 20,
+            "cookTime": 25,
+            "servings": 4,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "medium eggplants",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "fresh coriander",
+                    "quantity": "1",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "parsley",
+                    "quantity": "1/2",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "garlic cloves",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "ground cumin",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "sweet paprika",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "oil for frying",
+                    "quantity": "",
+                    "unit": "as needed"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Cut the eggplants into 1cm slices, salt them and leave 30 minutes. Pat thoroughly dry — this is what stops them drinking oil.",
+                "Fry the slices in deep oil until golden on both sides. Transfer to paper towels.",
+                "For the chermoula: finely chop coriander, parsley and garlic, then mix with cumin, paprika, lemon juice and olive oil.",
+                "Layer the eggplant slices on a serving plate, spreading chermoula between the layers.",
+                "Cover and chill at least two hours — the flavour improves markedly. Serve cold or at room temperature."
+            ],
+            "tags": [
+                "eggplant",
+                "chermoula",
+                "coriander",
+                "fried",
+                "starter"
+            ]
+        },
+        {
+            "id": "orange-olive-salad",
+            "title": "Orange and Olive Salad",
+            "originalName": "شلاضة البرتقال والزيتون",
+            "description": "Orange slices with black olives, red onion and cinnamon. A sweet-salty contrast that clears the palate after something heavy.",
+            "category": "Salads & Dips",
+            "kosherType": "Parve",
+            "image": "images/Orange_Olive_Salad.jpg",
+            "prepTime": 15,
+            "cookTime": 0,
+            "servings": 4,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "large oranges",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "pitted black olives",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "red onion",
+                    "quantity": "1/2",
+                    "unit": ""
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "ground cinnamon",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "orange blossom water",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "mint leaves",
+                    "quantity": "10",
+                    "unit": ""
+                },
+                {
+                    "name": "salt",
+                    "quantity": "",
+                    "unit": "a pinch"
+                }
+            ],
+            "instructions": [
+                "Peel the oranges down to the flesh — removing all the white pith — and slice into rounds.",
+                "Slice the red onion very thinly and soak in cold water for 10 minutes to soften its bite. Drain.",
+                "Arrange the orange slices on a flat plate and scatter the onion and olives over them.",
+                "Drizzle with olive oil and orange blossom water, then dust with cinnamon and a pinch of salt.",
+                "Chill 20 minutes, garnish with torn mint leaves and serve."
+            ],
+            "tags": [
+                "orange",
+                "olives",
+                "cinnamon",
+                "fresh",
+                "winter"
+            ]
+        },
+        {
+            "id": "marinated-olives",
+            "title": "Marinated Olives",
+            "originalName": "الزيتون المتبل",
+            "description": "Green olives in olive oil, preserved lemon, garlic and coriander. They sit on the table from the first moment and disappear first.",
+            "category": "Salads & Dips",
+            "kosherType": "Parve",
+            "image": "images/Moroccan_Marinated_Olives.jpg",
+            "prepTime": 15,
+            "cookTime": 0,
+            "servings": 10,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "cracked green olives",
+                    "quantity": "500",
+                    "unit": "g"
+                },
+                {
+                    "name": "preserved lemon",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "garlic cloves, sliced",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "fresh coriander, chopped",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "hot paprika",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground cumin",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Rinse the olives well in cold water and dry. If very salty, soak in water for an hour, changing the water twice.",
+                "Rinse the preserved lemon, discard the pulp and cut the peel into thin strips.",
+                "Combine the olives, preserved lemon, garlic, coriander, paprika and cumin in a bowl.",
+                "Pour over the olive oil and lemon juice and toss until every olive is coated.",
+                "Transfer to a jar and leave refrigerated at least 24 hours before serving. Keeps two weeks."
+            ],
+            "tags": [
+                "olives",
+                "preserved lemon",
+                "starter",
+                "pantry",
+                "cold"
+            ]
+        },
+        {
+            "id": "harira",
+            "title": "Harira",
+            "originalName": "حريرة",
+            "description": "The lentil, chickpea and beef soup that breaks the fast in Morocco. Thick, tart with tomato and heavy with fresh herbs.",
+            "category": "Soups & Harira",
+            "kosherType": "Meat",
+            "image": "images/Harira_Soup.jpg",
+            "prepTime": 25,
+            "cookTime": 90,
+            "servings": 8,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "stewing beef, cubed",
+                    "quantity": "400",
+                    "unit": "g"
+                },
+                {
+                    "name": "brown lentils",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "dried chickpeas, soaked overnight",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "grated tomatoes",
+                    "quantity": "6",
+                    "unit": ""
+                },
+                {
+                    "name": "onions, chopped",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "celery with leaves",
+                    "quantity": "2",
+                    "unit": "stalks"
+                },
+                {
+                    "name": "fresh coriander",
+                    "quantity": "1",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "parsley",
+                    "quantity": "1/2",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "turmeric",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground ginger",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "flour",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Heat the olive oil in a large pot and sear the beef cubes on all sides until browned.",
+                "Add onion, celery, turmeric and ginger and fry 5 minutes. Add the soaked chickpeas and 2 litres of water.",
+                "Bring to the boil, lower the heat and simmer covered for an hour until chickpeas and meat are tender.",
+                "Add the grated tomatoes, lentils and half the herbs. Cook a further 25 minutes.",
+                "Whisk the flour into a cup of cold water until lump-free and pour into the pot in a thin stream, stirring constantly — this is what gives harira its body.",
+                "Cook another 10 minutes, season with salt and pepper and stir in the remaining coriander and parsley before serving."
+            ],
+            "tags": [
+                "harira",
+                "soup",
+                "meat",
+                "lentils",
+                "holiday"
+            ]
+        },
+        {
+            "id": "bissara",
+            "title": "Bissara — Fava Bean Soup",
+            "originalName": "بيصارة",
+            "description": "A velvet-smooth dried fava soup with garlic, cumin and olive oil. Winter breakfast in every Moroccan market.",
+            "category": "Soups & Harira",
+            "kosherType": "Parve",
+            "image": "images/Bissara_Fava_Soup.jpg",
+            "prepTime": 10,
+            "cookTime": 60,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "dried split fava beans",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "garlic cloves",
+                    "quantity": "6",
+                    "unit": ""
+                },
+                {
+                    "name": "ground cumin",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "sweet paprika",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "",
+                    "unit": "to taste"
+                },
+                {
+                    "name": "black pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Soak the fava beans in cold water overnight. Drain and rinse well.",
+                "Cook the beans with the garlic in 1.5 litres of water for about an hour, until they collapse completely.",
+                "Blend with a stick blender until entirely smooth. If too thick, add boiling water gradually.",
+                "Return to the heat, add cumin, paprika, salt and pepper and cook a further 5 minutes.",
+                "Serve hot in bowls with a generous drizzle of olive oil, lemon juice and an extra pinch of cumin on top."
+            ],
+            "tags": [
+                "bissara",
+                "fava",
+                "soup",
+                "parve",
+                "winter"
+            ]
+        },
+        {
+            "id": "chorba-khodra",
+            "title": "Vegetable Chorba",
+            "originalName": "شربة الخضرة",
+            "description": "A root vegetable soup with saffron and coriander, finished with fine noodles. Light, fragrant and comforting.",
+            "category": "Soups & Harira",
+            "kosherType": "Parve",
+            "image": "images/Chorba_Vegetable_Soup.jpg",
+            "prepTime": 20,
+            "cookTime": 45,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "carrots, cubed",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "courgettes, cubed",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "potatoes",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "turnip",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "onion, chopped",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "grated tomatoes",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "angel hair noodles",
+                    "quantity": "100",
+                    "unit": "g"
+                },
+                {
+                    "name": "saffron threads",
+                    "quantity": "",
+                    "unit": "a pinch"
+                },
+                {
+                    "name": "turmeric",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "coriander, chopped",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Fry the onion in olive oil in a large pot until translucent.",
+                "Add turmeric and saffron and stir for 30 seconds — the heat releases the colour and aroma.",
+                "Add all the root vegetables, the tomatoes and 1.5 litres of water. Bring to the boil and cook 30 minutes.",
+                "Add the courgettes and noodles and cook a further 8 minutes until the noodles are soft.",
+                "Season with salt and pepper, stir in the fresh coriander and serve at once."
+            ],
+            "tags": [
+                "chorba",
+                "vegetables",
+                "saffron",
+                "parve",
+                "light"
+            ]
+        },
+        {
+            "id": "lentil-harira",
+            "title": "Parve Lentil Harira",
+            "originalName": "حريرة العدس",
+            "description": "Harira without the meat — lentils, chickpeas and tomato, with the same herbs and the same body. Fully parve.",
+            "category": "Soups & Harira",
+            "kosherType": "Parve",
+            "image": "images/Moroccan_Lentil_Soup.jpg",
+            "prepTime": 15,
+            "cookTime": 50,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "brown lentils",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "cooked chickpeas",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "grated tomatoes",
+                    "quantity": "5",
+                    "unit": ""
+                },
+                {
+                    "name": "onion, chopped",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "celery",
+                    "quantity": "2",
+                    "unit": "stalks"
+                },
+                {
+                    "name": "fresh coriander",
+                    "quantity": "1",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "turmeric",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground ginger",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "cinnamon",
+                    "quantity": "",
+                    "unit": "a pinch"
+                },
+                {
+                    "name": "flour",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Fry the onion and celery in olive oil until soft, add turmeric, ginger and cinnamon and stir for a minute.",
+                "Add the grated tomatoes and cook 10 minutes until reduced.",
+                "Add the lentils, chickpeas and 1.5 litres of water. Cook 30 minutes until the lentils are tender.",
+                "Whisk the flour into half a cup of cold water and pour in, stirring constantly. Cook 10 minutes until thickened.",
+                "Season and stir in plenty of chopped coriander. Serve with a wedge of lemon."
+            ],
+            "tags": [
+                "lentils",
+                "harira",
+                "parve",
+                "soup",
+                "winter"
+            ]
+        },
+        {
+            "id": "chickpea-cumin-soup",
+            "title": "Chickpea and Cumin Soup",
+            "originalName": "شربة الحمص",
+            "description": "Chickpeas simmered until they melt, with plenty of cumin and garlic. One soup that warms a whole evening.",
+            "category": "Soups & Harira",
+            "kosherType": "Parve",
+            "image": "images/Chickpea_Cumin_Soup.jpg",
+            "prepTime": 15,
+            "cookTime": 70,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "dried chickpeas, soaked overnight",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "onion, chopped",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "garlic cloves",
+                    "quantity": "5",
+                    "unit": ""
+                },
+                {
+                    "name": "ground cumin",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "sweet paprika",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "bay leaf",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "parsley, chopped",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Drain the soaked chickpeas and cook in 2 litres of water with the bay leaf for about an hour, until completely tender.",
+                "Meanwhile fry the onion and garlic in olive oil until lightly golden.",
+                "Add the cumin and paprika to the pan and stir for 30 seconds until fragrant.",
+                "Tip the onion mixture into the chickpea pot and cook together a further 15 minutes.",
+                "Blend about a third of the soup and return it to the pot — this gives body while leaving whole chickpeas. Season and finish with lemon and parsley."
+            ],
+            "tags": [
+                "chickpeas",
+                "cumin",
+                "soup",
+                "parve",
+                "comfort"
+            ]
+        },
+        {
+            "id": "pumpkin-saffron-soup",
+            "title": "Pumpkin and Saffron Soup",
+            "originalName": "شربة القرع بالزعفران",
+            "description": "Sweet pumpkin with saffron, ginger and a pinch of cinnamon. Deep orange, velvety — and not a drop of cream.",
+            "category": "Soups & Harira",
+            "kosherType": "Parve",
+            "image": "images/Pumpkin_Saffron_Soup.jpg",
+            "prepTime": 15,
+            "cookTime": 35,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "pumpkin, peeled and cubed",
+                    "quantity": "1",
+                    "unit": "kg"
+                },
+                {
+                    "name": "onion, chopped",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "carrot",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "saffron threads",
+                    "quantity": "",
+                    "unit": "a generous pinch"
+                },
+                {
+                    "name": "ground ginger",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "cinnamon",
+                    "quantity": "1/4",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "toasted flaked almonds",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Steep the saffron threads in 2 tablespoons of hot water and set aside — this draws out their full colour.",
+                "Fry the onion and carrot in olive oil for 7 minutes until softened.",
+                "Add the pumpkin cubes, ginger, cinnamon and 1.2 litres of water. Cook 25 minutes until the pumpkin collapses.",
+                "Blend until completely smooth and stir in the saffron water. Season with salt and pepper.",
+                "Serve with toasted flaked almonds on top and a drizzle of olive oil."
+            ],
+            "tags": [
+                "pumpkin",
+                "saffron",
+                "soup",
+                "parve",
+                "autumn"
+            ]
+        },
+        {
+            "id": "tomato-vermicelli-soup",
+            "title": "Tomato and Vermicelli Soup",
+            "originalName": "شربة الطماطم بالشعرية",
+            "description": "A plain tomato soup with fine noodles and coriander. The one you make when there is no time — and finish to the last spoon.",
+            "category": "Soups & Harira",
+            "kosherType": "Parve",
+            "image": "images/Tomato_Vermicelli_Soup.jpg",
+            "prepTime": 10,
+            "cookTime": 30,
+            "servings": 4,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "ripe tomatoes, grated",
+                    "quantity": "8",
+                    "unit": ""
+                },
+                {
+                    "name": "onion, finely chopped",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "garlic cloves",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "angel hair noodles, broken",
+                    "quantity": "80",
+                    "unit": "g"
+                },
+                {
+                    "name": "tomato paste",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "sweet paprika",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "coriander, chopped",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Fry the onion and garlic in olive oil until translucent, without browning.",
+                "Add the tomato paste and paprika and stir for a minute to bring out the sweetness.",
+                "Add the grated tomatoes, sugar and 1 litre of water. Cook 20 minutes over medium heat.",
+                "Add the broken noodles and cook 6–8 minutes until soft.",
+                "Season with salt and pepper and scatter over plenty of fresh coriander."
+            ],
+            "tags": [
+                "tomato",
+                "noodles",
+                "soup",
+                "quick",
+                "parve"
+            ]
+        },
+        {
+            "id": "loubia",
+            "title": "Loubia — White Beans",
+            "originalName": "لوبيا",
+            "description": "White beans in a tomato, paprika and cumin sauce, cooked until creamy. A whole meal with nothing but bread.",
+            "category": "Soups & Harira",
+            "kosherType": "Parve",
+            "image": "images/Loubia_White_Beans.jpg",
+            "prepTime": 15,
+            "cookTime": 90,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "dried white beans, soaked overnight",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "grated tomatoes",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "onion, chopped",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "garlic cloves, crushed",
+                    "quantity": "5",
+                    "unit": ""
+                },
+                {
+                    "name": "tomato paste",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "sweet paprika",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "ground cumin",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "coriander, chopped",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Drain the beans and cook in 1.5 litres of water for 45 minutes, until almost tender. Do not salt at this stage.",
+                "Fry the onion and garlic in olive oil, add the paste, paprika and cumin and stir for a minute.",
+                "Add the grated tomatoes and cook 10 minutes until the sauce reduces.",
+                "Pour the sauce into the bean pot and cook together a further 30 minutes over low heat.",
+                "Season with salt and pepper only now — salting early keeps beans tough — and stir in the coriander."
+            ],
+            "tags": [
+                "loubia",
+                "beans",
+                "stew",
+                "parve",
+                "comfort"
+            ]
+        },
+        {
+            "id": "chicken-harira",
+            "title": "Chicken Harira",
+            "originalName": "حريرة الدجاج",
+            "description": "A lighter harira built on chicken instead of beef. The same depth in less cooking time.",
+            "category": "Soups & Harira",
+            "kosherType": "Meat",
+            "image": "images/Chicken_Harira.jpg",
+            "prepTime": 20,
+            "cookTime": 70,
+            "servings": 6,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "chicken legs",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "cooked chickpeas",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "brown lentils",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "grated tomatoes",
+                    "quantity": "5",
+                    "unit": ""
+                },
+                {
+                    "name": "onion, chopped",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "celery",
+                    "quantity": "2",
+                    "unit": "stalks"
+                },
+                {
+                    "name": "coriander and parsley",
+                    "quantity": "1",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "turmeric",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground ginger",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "flour",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Sear the chicken legs in olive oil in a large pot until golden on both sides, then set aside.",
+                "In the same pot fry the onion and celery, add turmeric and ginger and stir.",
+                "Return the chicken, add 1.8 litres of water and cook 35 minutes. Lift out the chicken, pull the meat from the bone and return the meat.",
+                "Add the tomatoes, lentils and chickpeas and cook 20 minutes.",
+                "Thicken with the flour whisked into cold water, stirring as you pour; cook 10 minutes, season and finish with fresh herbs."
+            ],
+            "tags": [
+                "harira",
+                "chicken",
+                "meat",
+                "soup",
+                "holiday"
+            ]
+        },
+        {
+            "id": "barley-hsoua",
+            "title": "Hsoua — Barley Soup",
+            "originalName": "حسوة الشعير",
+            "description": "A rustic barley soup from the Atlas mountains, with cumin and olive oil. Few ingredients, a great deal of flavour.",
+            "category": "Soups & Harira",
+            "kosherType": "Parve",
+            "image": "images/Barley_Hsoua_Soup.jpg",
+            "prepTime": 10,
+            "cookTime": 45,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "pearl barley",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "onion, finely chopped",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "garlic cloves",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "grated tomato",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "ground cumin",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "turmeric",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "coriander, chopped",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Rinse the barley in cold water until the water runs clear.",
+                "Fry the onion and garlic in olive oil until soft, add turmeric and cumin and stir.",
+                "Add the grated tomato, the barley and 1.5 litres of water. Bring to the boil.",
+                "Lower the heat and cook 40 minutes, stirring now and then, until the barley is tender and the soup thick.",
+                "Season, stir in the coriander and finish with a generous drizzle of olive oil."
+            ],
+            "tags": [
+                "barley",
+                "soup",
+                "rustic",
+                "parve",
+                "atlas"
+            ]
+        },
+        {
+            "id": "chicken-tagine-preserved-lemon",
+            "title": "Chicken Tagine with Preserved Lemon and Olives",
+            "originalName": "طاجين الدجاج بالحامض المرقد",
+            "description": "Morocco's best-known tagine. Chicken cooked slowly in a saffron and ginger sauce, with preserved lemon and green olives.",
+            "category": "Tagines & Meats",
+            "kosherType": "Meat",
+            "image": "images/Chicken_Tagine_Preserved_Lemon.jpg",
+            "prepTime": 25,
+            "cookTime": 75,
+            "servings": 6,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "whole chicken, jointed",
+                    "quantity": "1.5",
+                    "unit": "kg"
+                },
+                {
+                    "name": "onions, sliced",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "garlic cloves, crushed",
+                    "quantity": "5",
+                    "unit": ""
+                },
+                {
+                    "name": "preserved lemons",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "pitted green olives",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "saffron threads",
+                    "quantity": "",
+                    "unit": "a generous pinch"
+                },
+                {
+                    "name": "ground ginger",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "turmeric",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "coriander and parsley, chopped",
+                    "quantity": "1",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Make the marinade: combine olive oil, garlic, saffron steeped in a little hot water, ginger, turmeric, half the herbs, salt and pepper.",
+                "Rub the chicken pieces with the marinade and refrigerate at least an hour — overnight is better.",
+                "Lay the sliced onion in the base of a tagine or heavy pot and set the chicken and all its marinade on top.",
+                "Add half a cup of water, cover and cook over low heat for 50 minutes. Do not stir — let the steam do the work.",
+                "Rinse the preserved lemons, discard the pulp and cut the peel into strips. Add with the olives and cook a further 20 minutes.",
+                "Uncover and cook a final 5 minutes to reduce the sauce. Finish with lemon juice and the remaining herbs. Olive oil stands in for smen here, which keeps the dish entirely meat."
+            ],
+            "tags": [
+                "tagine",
+                "chicken",
+                "preserved lemon",
+                "olives",
+                "meat"
+            ]
+        },
+        {
+            "id": "lamb-tagine-prunes",
+            "title": "Lamb Tagine with Prunes and Almonds",
+            "originalName": "طاجين اللحم بالبرقوق",
+            "description": "Lamb falling apart in a cinnamon and honey sauce, with dried prunes and toasted almonds. The festival dish of Morocco.",
+            "category": "Tagines & Meats",
+            "kosherType": "Meat",
+            "image": "images/Lamb_Tagine_Prunes.jpg",
+            "prepTime": 25,
+            "cookTime": 150,
+            "servings": 6,
+            "difficulty": "Hard",
+            "ingredients": [
+                {
+                    "name": "lamb shoulder, large cubes",
+                    "quantity": "1.2",
+                    "unit": "kg"
+                },
+                {
+                    "name": "onions, thinly sliced",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "pitted dried prunes",
+                    "quantity": "300",
+                    "unit": "g"
+                },
+                {
+                    "name": "whole almonds",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "honey",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "cinnamon sticks",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "ground cinnamon",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground ginger",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "saffron threads",
+                    "quantity": "",
+                    "unit": "a pinch"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "toasted sesame seeds",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Sear the lamb cubes in olive oil in a heavy pot until deeply browned on all sides. This is the foundation of the whole flavour.",
+                "Add the onion, ginger, ground cinnamon, saffron and cinnamon sticks. Fry 5 minutes.",
+                "Add water to cover the meat, bring to the boil, lower the heat and cook covered for two hours until the lamb falls apart.",
+                "Meanwhile soak the prunes in hot water for 20 minutes. Toast the almonds in a dry pan until golden.",
+                "Lift out the meat, reduce the sauce by half, add the honey and prunes and cook 15 minutes until thick and glossy.",
+                "Return the meat to warm through, scatter over the almonds and sesame and serve. Olive oil replaces the traditional butter here — the dish is meat."
+            ],
+            "tags": [
+                "tagine",
+                "lamb",
+                "prunes",
+                "honey",
+                "festive"
+            ]
+        },
+        {
+            "id": "kefta-tagine-eggs",
+            "title": "Kefta Tagine with Eggs",
+            "originalName": "طاجين الكفتة بالبيض",
+            "description": "Spiced meatballs in a hot tomato sauce, with eggs cracked in at the end. Eaten straight from the dish with bread.",
+            "category": "Tagines & Meats",
+            "kosherType": "Meat",
+            "image": "images/Kefta_Tagine_Eggs.jpg",
+            "prepTime": 25,
+            "cookTime": 40,
+            "servings": 4,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "ground beef",
+                    "quantity": "600",
+                    "unit": "g"
+                },
+                {
+                    "name": "onion, grated",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "parsley, chopped",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "ground cumin",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "sweet paprika",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "grated tomatoes",
+                    "quantity": "6",
+                    "unit": ""
+                },
+                {
+                    "name": "garlic cloves, crushed",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "eggs",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "harissa",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "coriander, chopped",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Mix the ground beef with grated onion, parsley, a teaspoon of cumin, half a tablespoon of paprika, salt and pepper. Knead well.",
+                "Roll into walnut-sized balls and chill 20 minutes so they hold together.",
+                "Make the sauce: fry the garlic in olive oil, add the grated tomatoes, harissa and the remaining cumin and paprika. Cook 15 minutes.",
+                "Set the meatballs into the simmering sauce, cover and cook 20 minutes, shaking the pan occasionally.",
+                "Crack the eggs between the meatballs, cover and cook 5–7 minutes until the whites set and the yolks are still soft.",
+                "Scatter over coriander and serve hot from the dish. There is no dairy here — eggs are parve, so the dish stays meat."
+            ],
+            "tags": [
+                "kefta",
+                "tagine",
+                "eggs",
+                "meat",
+                "spicy"
+            ]
+        },
+        {
+            "id": "beef-tagine-quince",
+            "title": "Beef Tagine with Quince",
+            "originalName": "طاجين اللحم بالسفرجل",
+            "description": "Beef in a saffron sauce with caramelised quince. The fruit's sharpness cuts the richness exactly right.",
+            "category": "Tagines & Meats",
+            "kosherType": "Meat",
+            "image": "images/Beef_Tagine_Quince.jpg",
+            "prepTime": 25,
+            "cookTime": 135,
+            "servings": 6,
+            "difficulty": "Hard",
+            "ingredients": [
+                {
+                    "name": "braising beef, cubed",
+                    "quantity": "1.2",
+                    "unit": "kg"
+                },
+                {
+                    "name": "quinces",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "onions, sliced",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "saffron threads",
+                    "quantity": "",
+                    "unit": "a generous pinch"
+                },
+                {
+                    "name": "ground ginger",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "cinnamon stick",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "honey",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Sear the beef cubes in olive oil until browned all over, then set aside.",
+                "Fry the onion in the same pot until soft, then add the saffron, ginger and cinnamon stick.",
+                "Return the meat, cover with water and cook over low heat for two hours until fully tender.",
+                "Meanwhile halve the quinces, core them and cut into thick wedges. Hold in lemon water so they do not darken.",
+                "Fry the quince wedges in a pan with the sugar and honey until golden and caramelised on both sides.",
+                "Lay the quince over the meat, cook together for a final 15 minutes and season. Serve with bread or couscous."
+            ],
+            "tags": [
+                "tagine",
+                "beef",
+                "quince",
+                "saffron",
+                "meat"
+            ]
+        },
+        {
+            "id": "dafina",
+            "title": "Dafina — Moroccan Shabbat Stew",
+            "originalName": "الدفينة",
+            "description": "The Shabbat pot of Moroccan Jews. Beef, chickpeas, potatoes, wheat and eggs cooked overnight until everything turns brown and sweet.",
+            "category": "Tagines & Meats",
+            "kosherType": "Meat",
+            "image": "images/Dafina_Shabbat_Stew.jpg",
+            "prepTime": 40,
+            "cookTime": 720,
+            "servings": 8,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "beef roast or marrow bones",
+                    "quantity": "1",
+                    "unit": "kg"
+                },
+                {
+                    "name": "dried chickpeas, soaked overnight",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "small whole potatoes",
+                    "quantity": "8",
+                    "unit": ""
+                },
+                {
+                    "name": "eggs in their shells",
+                    "quantity": "8",
+                    "unit": ""
+                },
+                {
+                    "name": "wheat berries",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "pitted dates",
+                    "quantity": "8",
+                    "unit": ""
+                },
+                {
+                    "name": "whole onions",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "garlic cloves",
+                    "quantity": "6",
+                    "unit": ""
+                },
+                {
+                    "name": "turmeric",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "sweet paprika",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "ground cinnamon",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Sear the meat in olive oil at the bottom of a large heavy pot until well browned.",
+                "Arrange the soaked chickpeas, wheat berries, onions and garlic around the meat.",
+                "Lay the whole potatoes, dates and the eggs in their shells on top — the eggs take their brown colour from the long cooking.",
+                "Mix the spices with 2 cups of water and pour in. Add water until everything is just covered.",
+                "Bring to the boil, reduce to the lowest heat and cover tightly. Move to a 100°C oven or leave on a hotplate overnight — 10 to 12 hours.",
+                "Serve hot: the meat, the browned eggs, the potatoes and the wheat, each separately on the plate. No dairy at any stage."
+            ],
+            "tags": [
+                "dafina",
+                "shabbat",
+                "overnight stew",
+                "meat",
+                "moroccan-jewish"
+            ]
+        },
+        {
+            "id": "mrouzia",
+            "title": "Mrouzia — Lamb with Honey and Raisins",
+            "originalName": "المروزية",
+            "description": "A sweet, heavily spiced lamb stew with ras el hanout, honey and raisins. One of the oldest dishes in the Moroccan kitchen.",
+            "category": "Tagines & Meats",
+            "kosherType": "Meat",
+            "image": "images/Mrouzia_Lamb_Honey.jpg",
+            "prepTime": 25,
+            "cookTime": 165,
+            "servings": 6,
+            "difficulty": "Hard",
+            "ingredients": [
+                {
+                    "name": "lamb neck or shoulder",
+                    "quantity": "1.2",
+                    "unit": "kg"
+                },
+                {
+                    "name": "dark raisins",
+                    "quantity": "250",
+                    "unit": "g"
+                },
+                {
+                    "name": "blanched almonds",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "honey",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "onions, sliced",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "ras el hanout",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "ground cinnamon",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "saffron threads",
+                    "quantity": "",
+                    "unit": "a pinch"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "toasted sesame seeds",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Rub the lamb pieces with ras el hanout, cinnamon, saffron and salt and leave an hour in the fridge.",
+                "Sear the meat in olive oil in a heavy pot until browned, add the onion and fry 10 minutes.",
+                "Add water to cover and cook covered over low heat for two and a half hours, until the meat falls from the bone.",
+                "Soak the raisins in hot water 15 minutes and drain. Toast the almonds until golden.",
+                "Lift out the meat, reduce the sauce, add the honey and raisins and cook 20 minutes to a thick syrup.",
+                "Return the meat, scatter over almonds and sesame and serve. Olive oil in place of smen keeps the dish meat."
+            ],
+            "tags": [
+                "mrouzia",
+                "lamb",
+                "honey",
+                "raisins",
+                "festive"
+            ]
+        },
+        {
+            "id": "fish-tagine-chermoula",
+            "title": "Fish Tagine in Chermoula",
+            "originalName": "طاجين الحوت بالشرمولة",
+            "description": "White fish fillets on a bed of vegetables, wrapped in chermoula. Fin-and-scale fish only — the dish is parve.",
+            "category": "Tagines & Meats",
+            "kosherType": "Parve",
+            "image": "images/Fish_Tagine_Chermoula.jpg",
+            "prepTime": 30,
+            "cookTime": 45,
+            "servings": 4,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "sea bream or sea bass fillets",
+                    "quantity": "800",
+                    "unit": "g"
+                },
+                {
+                    "name": "potatoes, sliced",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "carrots, sliced lengthwise",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "red pepper, in strips",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "tomatoes, sliced",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "green olives",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "fresh coriander",
+                    "quantity": "1",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "garlic cloves",
+                    "quantity": "5",
+                    "unit": ""
+                },
+                {
+                    "name": "ground cumin",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "sweet paprika",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Make the chermoula: blend coriander, garlic, cumin, paprika, lemon juice and olive oil to a green paste.",
+                "Spread half the chermoula over the fish fillets and chill 30 minutes.",
+                "Lay a layer of potato and carrot in the base of the tagine, season, and top with the red pepper.",
+                "Set the fish on the vegetables, arrange the tomato slices and olives over it and pour on the remaining chermoula.",
+                "Carefully add half a cup of water at the side of the dish, cover and cook over low heat for 40 minutes.",
+                "Check the potatoes are tender and serve straight from the dish. Fin-and-scale fish only — no shellfish here."
+            ],
+            "tags": [
+                "fish",
+                "chermoula",
+                "tagine",
+                "parve",
+                "coriander"
+            ]
+        },
+        {
+            "id": "chreime",
+            "title": "Chreime — Fish in Hot Sauce",
+            "originalName": "الحرايمي",
+            "description": "Fish steaks in a paprika, garlic and cumin sauce with real heat. A holiday dish of North African Jews, eaten with challah dipped in the sauce.",
+            "category": "Tagines & Meats",
+            "kosherType": "Parve",
+            "image": "images/Chreime_Spicy_Fish.jpg",
+            "prepTime": 15,
+            "cookTime": 35,
+            "servings": 4,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "cod or tilapia steaks",
+                    "quantity": "800",
+                    "unit": "g"
+                },
+                {
+                    "name": "garlic cloves, crushed",
+                    "quantity": "8",
+                    "unit": ""
+                },
+                {
+                    "name": "sweet paprika",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "hot paprika",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground cumin",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "tomato paste",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "hot green chilies",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "coriander, chopped",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "lemon juice",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Salt the fish steaks and leave 20 minutes. Rinse and dry thoroughly.",
+                "Heat the oil in a wide pan, add the garlic and fry 30 seconds — do not brown it.",
+                "Add both paprikas, the cumin and the tomato paste and immediately stir in half a cup of water so the spices do not burn.",
+                "Add another cup of water and the chilies, bring to the boil and cook the sauce 10 minutes.",
+                "Lay the fish steaks in the sauce in a single layer, cover and cook 15 minutes — turning once, carefully.",
+                "Finish with lemon juice and coriander. Serve warm with bread. The fish is parve, so it can go beside a meat or a dairy course."
+            ],
+            "tags": [
+                "chreime",
+                "fish",
+                "spicy",
+                "parve",
+                "moroccan-jewish"
+            ]
+        },
+        {
+            "id": "mechoui",
+            "title": "Mechoui — Slow-Roast Lamb Shoulder",
+            "originalName": "المشوي",
+            "description": "Lamb shoulder roasted for hours until it melts, with nothing but cumin and salt. Complete simplicity.",
+            "category": "Tagines & Meats",
+            "kosherType": "Meat",
+            "image": "images/Mechoui_Roast_Lamb.jpg",
+            "prepTime": 20,
+            "cookTime": 210,
+            "servings": 8,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "bone-in lamb shoulder",
+                    "quantity": "2.5",
+                    "unit": "kg"
+                },
+                {
+                    "name": "garlic cloves, crushed",
+                    "quantity": "8",
+                    "unit": ""
+                },
+                {
+                    "name": "ground cumin",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "sweet paprika",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "turmeric",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "cumin seeds, to serve",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "coarse salt",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "black pepper",
+                    "quantity": "1",
+                    "unit": "tsp"
+                }
+            ],
+            "instructions": [
+                "Mix the olive oil, garlic, ground cumin, paprika, turmeric, salt and pepper into a paste.",
+                "Score the shoulder in several places and rub the paste in well, right into the cuts.",
+                "Refrigerate at least two hours — overnight is better.",
+                "Set in a deep tray with a cup of water, cover tightly with foil and roast at 160°C for about two and a half hours.",
+                "Remove the foil, raise to 200°C and roast a further 30–40 minutes until the outside is golden and crisp.",
+                "Serve with a small bowl of coarse salt and cumin seeds — each person dips their own. That is the Moroccan way."
+            ],
+            "tags": [
+                "mechoui",
+                "lamb",
+                "roast",
+                "meat",
+                "festive"
+            ]
+        },
+        {
+            "id": "chicken-mqualli-vegetables",
+            "title": "Chicken Tagine with Root Vegetables",
+            "originalName": "طاجين الدجاج بالخضر",
+            "description": "Chicken with carrot, potato and turnip in a pale saffron sauce. A weekday tagine — plain and filling.",
+            "category": "Tagines & Meats",
+            "kosherType": "Meat",
+            "image": "images/Chicken_Tagine_Vegetables.jpg",
+            "prepTime": 25,
+            "cookTime": 70,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "chicken pieces",
+                    "quantity": "1.2",
+                    "unit": "kg"
+                },
+                {
+                    "name": "carrots, lengthwise",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "potatoes, quartered",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "turnip, cubed",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "courgettes",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "onions, sliced",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "saffron threads",
+                    "quantity": "",
+                    "unit": "a pinch"
+                },
+                {
+                    "name": "turmeric",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground ginger",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "coriander and parsley",
+                    "quantity": "1",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Rub the chicken pieces with turmeric, ginger, saffron, olive oil, salt and pepper.",
+                "Lay sliced onion in the base of the pot and set the spiced chicken on top.",
+                "Add a cup of water, cover and cook 25 minutes over medium-low heat.",
+                "Arrange the carrot, potato and turnip around the chicken. Cook covered a further 30 minutes.",
+                "Add the courgettes — they cook fast — and give it a final 12 minutes.",
+                "Scatter over fresh herbs and serve straight from the dish, with the sauce."
+            ],
+            "tags": [
+                "tagine",
+                "chicken",
+                "vegetables",
+                "weeknight",
+                "meat"
+            ]
+        },
+        {
+            "id": "couscous-seven-vegetables",
+            "title": "Seven Vegetable Couscous",
+            "originalName": "كسكس بسبع خضر",
+            "description": "The classic Friday couscous: semolina steamed three times, a rich vegetable broth and meat that falls apart. A dish for a whole family.",
+            "category": "Couscous & Pastries",
+            "kosherType": "Meat",
+            "image": "images/Couscous_Seven_Vegetables.jpg",
+            "prepTime": 40,
+            "cookTime": 120,
+            "servings": 8,
+            "difficulty": "Hard",
+            "ingredients": [
+                {
+                    "name": "coarse couscous",
+                    "quantity": "750",
+                    "unit": "g"
+                },
+                {
+                    "name": "beef or lamb, cubed",
+                    "quantity": "800",
+                    "unit": "g"
+                },
+                {
+                    "name": "carrots",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "courgettes",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "turnips",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "pumpkin",
+                    "quantity": "400",
+                    "unit": "g"
+                },
+                {
+                    "name": "white cabbage",
+                    "quantity": "1/4",
+                    "unit": ""
+                },
+                {
+                    "name": "cooked chickpeas",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "onions, sliced",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "grated tomatoes",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "turmeric",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "ground ginger",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "saffron threads",
+                    "quantity": "",
+                    "unit": "a pinch"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "coriander and parsley",
+                    "quantity": "1",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Sear the meat in olive oil in the base of the couscoussier, add onion, tomatoes, turmeric, ginger and saffron and fry 10 minutes.",
+                "Add 3 litres of water and a tied bundle of herbs, bring to the boil and cook 45 minutes.",
+                "First steaming: spread the couscous in a bowl, sprinkle with water and olive oil and rub through with your hands. Move to the top section and steam 20 minutes uncovered.",
+                "Return the couscous to the bowl, break it up with a fork, sprinkle more water and steam again 20 minutes. Repeat a third time — this is what gives separate, airy grains.",
+                "Add carrot, turnip and cabbage to the broth and cook 20 minutes. Add pumpkin, courgettes and chickpeas and cook a further 15 minutes.",
+                "To serve: a mound of couscous in a bowl, the meat and vegetables on top and a ladle of broth alongside. Olive oil instead of butter — the dish is meat."
+            ],
+            "tags": [
+                "couscous",
+                "shabbat",
+                "vegetables",
+                "meat",
+                "festive"
+            ]
+        },
+        {
+            "id": "couscous-tfaya",
+            "title": "Couscous Tfaya",
+            "originalName": "كسكس بالتفاية",
+            "description": "Couscous with caramelised onion, raisins and cinnamon over chicken. Sweet, golden and special — an occasion couscous.",
+            "category": "Couscous & Pastries",
+            "kosherType": "Meat",
+            "image": "images/Couscous_Tfaya.jpg",
+            "prepTime": 30,
+            "cookTime": 105,
+            "servings": 6,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "medium couscous",
+                    "quantity": "600",
+                    "unit": "g"
+                },
+                {
+                    "name": "chicken pieces",
+                    "quantity": "1.2",
+                    "unit": "kg"
+                },
+                {
+                    "name": "onions, thinly sliced",
+                    "quantity": "5",
+                    "unit": ""
+                },
+                {
+                    "name": "dark raisins",
+                    "quantity": "200",
+                    "unit": "g"
+                },
+                {
+                    "name": "blanched almonds",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "honey",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "ground cinnamon",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "saffron threads",
+                    "quantity": "",
+                    "unit": "a pinch"
+                },
+                {
+                    "name": "ground ginger",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Cook the chicken with one onion, saffron, ginger, olive oil, salt and pepper in 1.5 litres of water for about 45 minutes.",
+                "For the tfaya: fry the remaining 4 onions in olive oil over low heat for 40 minutes, until brown and sweet.",
+                "Add soaked raisins, honey and cinnamon to the onions and cook together 15 minutes to a thick, glossy mixture.",
+                "Steam the couscous three times, 20 minutes each, breaking it up and sprinkling with broth in between.",
+                "Toast the almonds in a dry pan until golden.",
+                "Spread the couscous on a large platter, the chicken over it, the tfaya on top and scatter the almonds. Serve with a bowl of broth."
+            ],
+            "tags": [
+                "couscous",
+                "tfaya",
+                "caramelised onion",
+                "raisins",
+                "meat"
+            ]
+        },
+        {
+            "id": "couscous-parve",
+            "title": "Parve Vegetable Couscous",
+            "originalName": "كسكس بالخضر",
+            "description": "All the flavour of Moroccan couscous with no meat at all. A well-spiced vegetable broth you can serve beside anything.",
+            "category": "Couscous & Pastries",
+            "kosherType": "Parve",
+            "image": "images/Parve_Vegetable_Couscous.jpg",
+            "prepTime": 25,
+            "cookTime": 60,
+            "servings": 6,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "medium couscous",
+                    "quantity": "500",
+                    "unit": "g"
+                },
+                {
+                    "name": "carrots",
+                    "quantity": "4",
+                    "unit": ""
+                },
+                {
+                    "name": "courgettes",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "turnip",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "pumpkin",
+                    "quantity": "300",
+                    "unit": "g"
+                },
+                {
+                    "name": "cooked chickpeas",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "onions, sliced",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "grated tomatoes",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "turmeric",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground ginger",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "saffron threads",
+                    "quantity": "",
+                    "unit": "a pinch"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "coriander and parsley",
+                    "quantity": "1",
+                    "unit": "bunch"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Fry the onion in olive oil until golden, add the grated tomatoes and all the spices and cook 10 minutes.",
+                "Add 2 litres of water and the bundle of herbs and bring to the boil.",
+                "Steam the couscous a first time for 20 minutes, break it up, sprinkle with water and olive oil and steam again.",
+                "Add carrot and turnip to the broth and cook 20 minutes. Add pumpkin, courgettes and chickpeas and cook 15 minutes.",
+                "Steam the couscous a third time — a final 15 minutes.",
+                "Serve the couscous with the vegetables on top and broth alongside. Fully parve — it works next to a dairy course too."
+            ],
+            "tags": [
+                "couscous",
+                "vegetables",
+                "parve",
+                "vegetarian",
+                "classic"
+            ]
+        },
+        {
+            "id": "pastilla-chicken",
+            "title": "Chicken Pastilla",
+            "originalName": "البسطيلة بالدجاج",
+            "description": "A crisp layered pie filled with spiced chicken, egg and sweet almonds, dusted with sugar and cinnamon. Sweet and savoury at once — the dish Morocco serves to honour a guest.",
+            "category": "Couscous & Pastries",
+            "kosherType": "Meat",
+            "image": "images/Chicken_Pastilla.jpg",
+            "prepTime": 60,
+            "cookTime": 90,
+            "servings": 8,
+            "difficulty": "Hard",
+            "ingredients": [
+                {
+                    "name": "warqa or filo sheets",
+                    "quantity": "12",
+                    "unit": ""
+                },
+                {
+                    "name": "chicken pieces",
+                    "quantity": "1",
+                    "unit": "kg"
+                },
+                {
+                    "name": "onions, chopped",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "eggs",
+                    "quantity": "6",
+                    "unit": ""
+                },
+                {
+                    "name": "blanched almonds",
+                    "quantity": "200",
+                    "unit": "g"
+                },
+                {
+                    "name": "icing sugar",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "ground cinnamon",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "saffron threads",
+                    "quantity": "",
+                    "unit": "a generous pinch"
+                },
+                {
+                    "name": "ground ginger",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "parsley, chopped",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "orange blossom water",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Cook the chicken with onion, saffron, ginger, olive oil, salt, pepper and a little water for 50 minutes. Lift out, bone and tear into pieces.",
+                "Reduce the cooking liquid to a thick sauce, lower the heat and pour in the beaten eggs, stirring until thick and curd-like. Stir in the parsley.",
+                "Fry the almonds in oil until golden, drain and grind coarsely with the icing sugar and a teaspoon of cinnamon.",
+                "Oil a round tin and line it with the pastry sheets in layers, brushing each with olive oil and letting the edges hang over the side.",
+                "Fill in layers: the egg mixture, the shredded chicken, then the sweet almonds. Fold the overhanging edges in and cover with 2–3 more sheets.",
+                "Bake at 190°C for about 35 minutes until golden. Dust with icing sugar and lines of cinnamon and serve hot. Olive oil in place of butter — the dish is meat."
+            ],
+            "tags": [
+                "pastilla",
+                "chicken",
+                "almonds",
+                "sweet-savoury",
+                "festive"
+            ]
+        },
+        {
+            "id": "briouats-meat",
+            "title": "Meat Briouats",
+            "originalName": "بريوات باللحم",
+            "description": "Crisp pastry triangles filled with spiced ground meat. Fried golden and gone from the plate within minutes.",
+            "category": "Couscous & Pastries",
+            "kosherType": "Meat",
+            "image": "images/Meat_Briouats.jpg",
+            "prepTime": 45,
+            "cookTime": 25,
+            "servings": 8,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "filo or warqa sheets",
+                    "quantity": "10",
+                    "unit": ""
+                },
+                {
+                    "name": "ground beef",
+                    "quantity": "500",
+                    "unit": "g"
+                },
+                {
+                    "name": "onions, finely chopped",
+                    "quantity": "2",
+                    "unit": ""
+                },
+                {
+                    "name": "parsley, chopped",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "ground cumin",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "sweet paprika",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground cinnamon",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "egg",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "oil for frying",
+                    "quantity": "",
+                    "unit": "as needed"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Fry the onion in olive oil until soft, add the ground beef and fry until browned and crumbly.",
+                "Add cumin, paprika, cinnamon, salt and pepper and cook 5 minutes until all the liquid has gone. Cool.",
+                "Stir in the parsley and the beaten egg — the egg is what holds the filling together.",
+                "Cut the pastry into strips 8cm wide. Place a spoon of filling at one end and fold in alternating triangles to the end of the strip.",
+                "Seal the end with a little water and press. Repeat until the filling is used up.",
+                "Fry in deep oil over medium heat until golden on both sides, about 3 minutes. Drain on paper and serve hot."
+            ],
+            "tags": [
+                "briouats",
+                "meat",
+                "fried",
+                "starter",
+                "meat"
+            ]
+        },
+        {
+            "id": "briouats-spinach",
+            "title": "Spinach Briouats",
+            "originalName": "بريوات بالسبانخ",
+            "description": "The parve version — spinach, coriander and preserved lemon in crisp pastry. Lighter, and no less good.",
+            "category": "Couscous & Pastries",
+            "kosherType": "Parve",
+            "image": "images/Spinach_Briouats.jpg",
+            "prepTime": 35,
+            "cookTime": 25,
+            "servings": 8,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "filo sheets",
+                    "quantity": "10",
+                    "unit": ""
+                },
+                {
+                    "name": "fresh spinach",
+                    "quantity": "800",
+                    "unit": "g"
+                },
+                {
+                    "name": "onion, finely chopped",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "garlic cloves",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "preserved lemon, chopped",
+                    "quantity": "1/2",
+                    "unit": ""
+                },
+                {
+                    "name": "coriander, chopped",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "ground cumin",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "oil for frying",
+                    "quantity": "",
+                    "unit": "as needed"
+                },
+                {
+                    "name": "salt and pepper",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Blanch the spinach in boiling water for a minute, drain and refresh in cold water. Squeeze out hard — this is critical so the pastry does not go soggy.",
+                "Chop the squeezed spinach roughly.",
+                "Fry the onion and garlic in olive oil, add the spinach, cumin, salt and pepper and cook 5 minutes until dry.",
+                "Stir in the chopped preserved lemon and coriander and cool completely.",
+                "Cut the pastry into strips, fill and fold into triangles. Seal with a little water.",
+                "Fry in deep oil until golden, or bake at 200°C for about 20 minutes. Parve — it suits any table."
+            ],
+            "tags": [
+                "briouats",
+                "spinach",
+                "parve",
+                "vegetarian",
+                "starter"
+            ]
+        },
+        {
+            "id": "msemen",
+            "title": "Msemen — Layered Flatbread",
+            "originalName": "المسمن",
+            "description": "A square bread that lies on the pan and opens into dozens of paper-thin layers. The secret is the stretching and folding, not the dough.",
+            "category": "Couscous & Pastries",
+            "kosherType": "Parve",
+            "image": "images/Msemen_Flatbread.jpg",
+            "prepTime": 40,
+            "cookTime": 25,
+            "servings": 8,
+            "difficulty": "Hard",
+            "ingredients": [
+                {
+                    "name": "white flour",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "fine semolina",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "dried yeast",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1.5",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "warm water",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "semolina for dusting",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Mix flour, semolina, yeast, sugar and salt. Add the water gradually and knead 10 minutes to a very soft, elastic dough.",
+                "Divide into egg-sized balls, oil each one and leave to rest 20 minutes, covered.",
+                "Flatten a ball on an oiled surface and stretch it by hand until almost transparent — working from the centre outwards.",
+                "Drizzle with oil and dust semolina over the whole surface. Fold the sides in to make a strip, then again into a square.",
+                "Rest 10 minutes, then gently flatten into a square about half a centimetre thick.",
+                "Cook in a dry hot pan for 3–4 minutes a side until the layers turn golden. Serve hot with honey. Oil instead of butter — parve."
+            ],
+            "tags": [
+                "msemen",
+                "bread",
+                "layered",
+                "parve",
+                "breakfast"
+            ]
+        },
+        {
+            "id": "harcha",
+            "title": "Harcha — Semolina Bread",
+            "originalName": "الحرشة",
+            "description": "Round semolina cakes cooked in a pan, crisp outside and soft within. A breakfast with butter and honey — the one dairy recipe here.",
+            "category": "Couscous & Pastries",
+            "kosherType": "Dairy",
+            "image": "images/Harcha_Semolina_Bread.jpg",
+            "prepTime": 15,
+            "cookTime": 20,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "fine semolina",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "soft butter",
+                    "quantity": "150",
+                    "unit": "g"
+                },
+                {
+                    "name": "milk",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "baking powder",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "semolina for coating",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Mix semolina, sugar, baking powder and salt in a bowl.",
+                "Add the soft butter and rub between your fingers until the mixture looks like damp sand.",
+                "Add the milk gradually and stir gently — only until the dough comes together. Do not knead.",
+                "Let the dough rest 15 minutes so the semolina absorbs the liquid.",
+                "Shape rounds about 1.5cm thick and coat both sides in dry semolina.",
+                "Cook in a dry pan over low heat 8–10 minutes a side until a golden crust forms. Serve hot. Note: this is a dairy recipe — do not serve at a meat meal."
+            ],
+            "tags": [
+                "harcha",
+                "semolina",
+                "dairy",
+                "breakfast",
+                "sweet"
+            ]
+        },
+        {
+            "id": "batbout",
+            "title": "Batbout — Moroccan Pita",
+            "originalName": "البطبوط",
+            "description": "A pocket bread baked in a pan rather than an oven, puffing into a perfect pocket. Soft, spongy and still fresh a day later.",
+            "category": "Couscous & Pastries",
+            "kosherType": "Parve",
+            "image": "images/Batbout_Moroccan_Pita.jpg",
+            "prepTime": 90,
+            "cookTime": 20,
+            "servings": 10,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "white flour",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "fine semolina",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "wholemeal flour",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "dried yeast",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1.5",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "warm water",
+                    "quantity": "1.25",
+                    "unit": "cups"
+                },
+                {
+                    "name": "olive oil",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Mix all the flours with the yeast, sugar and salt.",
+                "Add the warm water and olive oil and knead 10 minutes to a smooth, soft, non-sticky dough.",
+                "Cover and prove an hour in a warm place until doubled.",
+                "Divide into 10 balls, flatten each into a round about half a centimetre thick and set on a floured cloth.",
+                "Prove again for 30 minutes — this is what makes the pocket open.",
+                "Cook in a dry hot pan for 3 minutes a side. The bread will puff by itself. Move to a clean cloth to keep it soft."
+            ],
+            "tags": [
+                "batbout",
+                "pita",
+                "bread",
+                "parve",
+                "stovetop"
+            ]
+        },
+        {
+            "id": "mofletta",
+            "title": "Mofletta",
+            "originalName": "الموفليطة",
+            "description": "The thin Mimouna pancake, stacked high and eaten with honey. The sign that Passover is over.",
+            "category": "Couscous & Pastries",
+            "kosherType": "Parve",
+            "image": "images/Mofletta_Mimouna.jpg",
+            "prepTime": 40,
+            "cookTime": 20,
+            "servings": 10,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "white flour",
+                    "quantity": "4",
+                    "unit": "cups"
+                },
+                {
+                    "name": "dried yeast",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "warm water",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "honey, to serve",
+                    "quantity": "",
+                    "unit": "to taste"
+                }
+            ],
+            "instructions": [
+                "Mix flour, yeast, sugar and salt. Add the water gradually and knead 8 minutes to a very soft, almost pourable dough.",
+                "Cover and prove 30 minutes.",
+                "Oil your hands well, form small walnut-sized balls and set on an oiled tray. Oil the tops too.",
+                "Stretch a ball between oiled palms into the thinnest possible round — almost transparent.",
+                "Cook in a dry pan: lay a round down, and once the underside sets, place a fresh round on top and flip them together.",
+                "Carry on this way — each new mofletta cooks the previous one on its second side. One hot stack, with honey. The dough is entirely parve."
+            ],
+            "tags": [
+                "mofletta",
+                "mimouna",
+                "parve",
+                "honey",
+                "moroccan-jewish"
+            ]
+        },
+        {
+            "id": "chebakia",
+            "title": "Chebakia",
+            "originalName": "الشباكية",
+            "description": "Fried rose-shaped cookies steeped in honey and coated in sesame. The sweet that comes with every bowl of harira, at Ramadan and every festival.",
+            "category": "Desserts & Sweets",
+            "kosherType": "Parve",
+            "image": "images/Chebakia_Sesame_Cookies.jpg",
+            "prepTime": 60,
+            "cookTime": 40,
+            "servings": 12,
+            "difficulty": "Hard",
+            "ingredients": [
+                {
+                    "name": "white flour",
+                    "quantity": "4",
+                    "unit": "cups"
+                },
+                {
+                    "name": "toasted ground sesame",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "toasted ground almonds",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "saffron threads",
+                    "quantity": "",
+                    "unit": "a pinch"
+                },
+                {
+                    "name": "ground anise",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground cinnamon",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "dried yeast",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "vinegar",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "orange blossom water",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "honey",
+                    "quantity": "750",
+                    "unit": "g"
+                },
+                {
+                    "name": "sesame seeds for coating",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "oil for frying",
+                    "quantity": "",
+                    "unit": "as needed"
+                }
+            ],
+            "instructions": [
+                "Mix the flour, ground sesame, almonds, saffron, anise, cinnamon and yeast in a large bowl.",
+                "Add the oil, vinegar, orange blossom water and water gradually. Knead 15 minutes to a firm, even dough. Rest an hour.",
+                "Roll the dough very thin and cut into rectangles. Score 4 slits along each rectangle.",
+                "Thread a finger through alternate slits and pinch the ends together — this forms the rose shape.",
+                "Fry in deep oil over medium heat until golden, about 5 minutes. Lift out and transfer straight into warm honey.",
+                "Steep in the honey 7–10 minutes until soaked through, lift out with a slotted spoon and scatter with sesame. Dry on a rack."
+            ],
+            "tags": [
+                "chebakia",
+                "honey",
+                "sesame",
+                "fried",
+                "festive"
+            ]
+        },
+        {
+            "id": "ghriba",
+            "title": "Ghriba — Almond Cookies",
+            "originalName": "الغريبة",
+            "description": "Almond cookies cracked across the top, soft within and buried in icing sugar. Three main ingredients and a perfect result.",
+            "category": "Desserts & Sweets",
+            "kosherType": "Parve",
+            "image": "images/Ghriba_Almond_Cookies.jpg",
+            "prepTime": 20,
+            "cookTime": 18,
+            "servings": 10,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "ground almonds",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "icing sugar",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "eggs",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "orange blossom water",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "lemon zest",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "baking powder",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "icing sugar for rolling",
+                    "quantity": "1",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Mix the ground almonds, icing sugar and baking powder in a bowl.",
+                "Beat the eggs with the orange blossom water, lemon zest and oil and add to the dry mixture.",
+                "Stir to a sticky, even dough. Chill 30 minutes — colder is easier to roll.",
+                "Form walnut-sized balls and roll each thickly in icing sugar.",
+                "Set on a lined tray with space between them and press each one lightly to flatten.",
+                "Bake at 170°C for 15–18 minutes — they will crack on top and stay soft inside. No butter here: parve."
+            ],
+            "tags": [
+                "ghriba",
+                "almonds",
+                "cookies",
+                "parve",
+                "easy"
+            ]
+        },
+        {
+            "id": "kaab-el-ghazal",
+            "title": "Kaab el Ghazal — Gazelle Horns",
+            "originalName": "كعب الغزال",
+            "description": "Fine crescents filled with almond paste and orange blossom. So delicate the pastry is almost see-through.",
+            "category": "Desserts & Sweets",
+            "kosherType": "Parve",
+            "image": "images/Kaab_El_Ghazal.jpg",
+            "prepTime": 60,
+            "cookTime": 20,
+            "servings": 12,
+            "difficulty": "Hard",
+            "ingredients": [
+                {
+                    "name": "white flour",
+                    "quantity": "2.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "orange blossom water",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "",
+                    "unit": "a pinch"
+                },
+                {
+                    "name": "ground almonds",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "ground cinnamon",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "lemon zest",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "orange blossom water for the filling",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "icing sugar",
+                    "quantity": "",
+                    "unit": "for dusting"
+                }
+            ],
+            "instructions": [
+                "For the filling: mix ground almonds, sugar, cinnamon, lemon zest and orange blossom water into a rollable paste.",
+                "Roll the paste into thin 6cm logs and bend each slightly into a crescent.",
+                "For the pastry: knead flour, oil, orange blossom water, salt and a little water for 10 minutes to a smooth, very elastic dough. Rest 30 minutes.",
+                "Roll the dough as thin as you can — almost transparent. Lay the crescents on it, spaced apart.",
+                "Fold the dough over the filling, press around each crescent and push the air out. Cut with a wheel and shape into a curved horn.",
+                "Prick each one with a toothpick and bake at 180°C for 15–18 minutes until only pale — they must not brown. Dust with icing sugar."
+            ],
+            "tags": [
+                "gazelle horns",
+                "almonds",
+                "orange blossom",
+                "parve",
+                "festive"
+            ]
+        },
+        {
+            "id": "sellou",
+            "title": "Sellou — Sfouf",
+            "originalName": "سلو",
+            "description": "Toasted flour, almonds, sesame and honey, eaten by the spoonful. Not a cake, not a cookie — entirely its own thing.",
+            "category": "Desserts & Sweets",
+            "kosherType": "Parve",
+            "image": "images/Sellou_Sfouf.jpg",
+            "prepTime": 40,
+            "cookTime": 30,
+            "servings": 12,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "white flour",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "blanched almonds",
+                    "quantity": "2",
+                    "unit": "cups"
+                },
+                {
+                    "name": "sesame seeds",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "icing sugar",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "honey",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "ground cinnamon",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "ground anise",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground mastic",
+                    "quantity": "",
+                    "unit": "a pinch"
+                }
+            ],
+            "instructions": [
+                "Toast the flour on a tray at 160°C for about 25 minutes, stirring every 5 minutes — until light brown and smelling nutty.",
+                "Toast the almonds until golden, and the sesame in a dry pan until it starts to pop.",
+                "Grind two thirds of the almonds and most of the sesame coarsely in a processor. Keep some whole for decoration.",
+                "In a large bowl mix the toasted flour, ground nuts, icing sugar, cinnamon, anise and mastic.",
+                "Warm the oil and honey together and pour into the dry mixture, stirring, until it has the texture of wet sand that clumps in the hand.",
+                "Transfer to a serving bowl, press into a dome and decorate with whole almonds. Keeps for weeks in a sealed container."
+            ],
+            "tags": [
+                "sellou",
+                "almonds",
+                "sesame",
+                "parve",
+                "traditional"
+            ]
+        },
+        {
+            "id": "mhencha",
+            "title": "Mhencha — Almond Coil",
+            "originalName": "المحنشة",
+            "description": "A long filled pastry tube wound into a spiral like a coiled snake. Remarkably impressive and easier than it looks.",
+            "category": "Desserts & Sweets",
+            "kosherType": "Parve",
+            "image": "images/Mhencha_Almond_Coil.jpg",
+            "prepTime": 40,
+            "cookTime": 35,
+            "servings": 10,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "filo sheets",
+                    "quantity": "8",
+                    "unit": ""
+                },
+                {
+                    "name": "ground almonds",
+                    "quantity": "3",
+                    "unit": "cups"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "ground cinnamon",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "orange blossom water",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "orange zest",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "egg yolk for glazing",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "honey",
+                    "quantity": "1/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "flaked almonds and icing sugar",
+                    "quantity": "",
+                    "unit": "to decorate"
+                }
+            ],
+            "instructions": [
+                "Mix the ground almonds, sugar, cinnamon, orange zest and orange blossom water into a moist, rollable paste.",
+                "Overlap 2 filo sheets, brush with oil and lay a sausage of filling along one edge.",
+                "Roll into a long narrow tube. Repeat with the remaining sheets.",
+                "Coil one tube into a spiral at the centre of an oiled round tin, and join the next tubes on to continue the spiral.",
+                "Brush with beaten egg yolk and bake at 180°C for about 35 minutes until deeply golden.",
+                "Drizzle warm honey over the hot pastry and scatter flaked almonds and icing sugar. Oil instead of butter — parve, so it can follow a meat meal."
+            ],
+            "tags": [
+                "mhencha",
+                "almonds",
+                "filo",
+                "parve",
+                "festive"
+            ]
+        },
+        {
+            "id": "moroccan-mint-tea",
+            "title": "Moroccan Mint Tea",
+            "originalName": "أتاي بالنعناع",
+            "description": "Green tea, fresh mint and plenty of sugar, poured from a height to raise the foam. Not a drink — a ritual.",
+            "category": "Desserts & Sweets",
+            "kosherType": "Parve",
+            "image": "images/Moroccan_Mint_Tea.jpg",
+            "prepTime": 5,
+            "cookTime": 10,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "gunpowder green tea",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "fresh mint",
+                    "quantity": "1",
+                    "unit": "large bunch"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "6",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "boiling water",
+                    "quantity": "1",
+                    "unit": "litre"
+                }
+            ],
+            "instructions": [
+                "Rinse the tea leaves with a cup of boiling water and pour it straight off — this removes the bitterness.",
+                "Add half a litre of boiling water to the pot and simmer over low heat for 3 minutes.",
+                "Add the whole bunch of mint and the sugar, pushing the leaves under the surface.",
+                "Keep over low heat 3–4 minutes without boiling — boiling scorches the mint and turns the tea bitter.",
+                "Pour out one glass and return it to the pot three times, to mix without bruising the leaves.",
+                "Pour into glasses from about 30cm up — the stream creates the foam that marks tea made properly."
+            ],
+            "tags": [
+                "tea",
+                "mint",
+                "drink",
+                "parve",
+                "ritual"
+            ]
+        },
+        {
+            "id": "orange-cinnamon-dessert",
+            "title": "Oranges with Cinnamon and Blossom Water",
+            "originalName": "البرتقال بالقرفة",
+            "description": "The dessert that closes every Moroccan meal: cold orange slices with cinnamon and orange blossom. Five minutes of work.",
+            "category": "Desserts & Sweets",
+            "kosherType": "Parve",
+            "image": "images/Orange_Cinnamon_Dessert.jpg",
+            "prepTime": 15,
+            "cookTime": 0,
+            "servings": 4,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "large oranges",
+                    "quantity": "6",
+                    "unit": ""
+                },
+                {
+                    "name": "ground cinnamon",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "orange blossom water",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "icing sugar",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "toasted chopped almonds",
+                    "quantity": "3",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "mint leaves",
+                    "quantity": "10",
+                    "unit": ""
+                },
+                {
+                    "name": "pitted dates, chopped",
+                    "quantity": "4",
+                    "unit": ""
+                }
+            ],
+            "instructions": [
+                "Peel the oranges down to the flesh with a sharp knife — all the bitter white pith must go.",
+                "Slice into rounds half a centimetre thick and lay in a single layer on a flat plate.",
+                "Sprinkle over the orange blossom water and dust evenly with icing sugar.",
+                "Scatter the cinnamon in lines rather than evenly — it looks better that way.",
+                "Chill at least an hour so the flavours soak in.",
+                "Before serving scatter over the toasted almonds, dates and torn mint leaves."
+            ],
+            "tags": [
+                "orange",
+                "cinnamon",
+                "dessert",
+                "parve",
+                "easy"
+            ]
+        },
+        {
+            "id": "zriga",
+            "title": "Zriga — Almond Milk Drink",
+            "originalName": "الزريكة",
+            "description": "A cold milk drink with ground almonds, orange blossom and cinnamon. Served very cold in tall glasses — a dairy recipe.",
+            "category": "Desserts & Sweets",
+            "kosherType": "Dairy",
+            "image": "images/Zriga_Almond_Milk.jpg",
+            "prepTime": 20,
+            "cookTime": 10,
+            "servings": 6,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "milk",
+                    "quantity": "1",
+                    "unit": "litre"
+                },
+                {
+                    "name": "blanched almonds",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "orange blossom water",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "ground cinnamon",
+                    "quantity": "1/2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "cinnamon stick",
+                    "quantity": "1",
+                    "unit": ""
+                },
+                {
+                    "name": "flaked almonds to garnish",
+                    "quantity": "2",
+                    "unit": "tbsp"
+                }
+            ],
+            "instructions": [
+                "Blanch the almonds in boiling water for a minute and peel if needed. Grind as finely as possible in a processor.",
+                "Heat the milk with the sugar and cinnamon stick to just below boiling — do not let it boil.",
+                "Take off the heat, add the ground almonds and leave to infuse 20 minutes.",
+                "Strain through muslin or a fine sieve, pressing hard to get all the liquid out.",
+                "Stir in the orange blossom water and ground cinnamon and chill at least 3 hours.",
+                "Serve very cold in tall glasses with flaked almonds on top. A dairy recipe — not for a meat meal."
+            ],
+            "tags": [
+                "zriga",
+                "almonds",
+                "dairy",
+                "drink",
+                "summer"
+            ]
+        },
+        {
+            "id": "fekkas",
+            "title": "Fekkas — Moroccan Biscotti",
+            "originalName": "الفقاص",
+            "description": "Hard, crisp cookies with almonds, raisins and sesame, baked twice. Made for dipping in tea and they keep a month.",
+            "category": "Desserts & Sweets",
+            "kosherType": "Parve",
+            "image": "images/Fekkas_Biscotti.jpg",
+            "prepTime": 30,
+            "cookTime": 50,
+            "servings": 12,
+            "difficulty": "Medium",
+            "ingredients": [
+                {
+                    "name": "white flour",
+                    "quantity": "4",
+                    "unit": "cups"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "eggs",
+                    "quantity": "3",
+                    "unit": ""
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                },
+                {
+                    "name": "whole almonds",
+                    "quantity": "1",
+                    "unit": "cup"
+                },
+                {
+                    "name": "raisins",
+                    "quantity": "3/4",
+                    "unit": "cup"
+                },
+                {
+                    "name": "toasted sesame",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "baking powder",
+                    "quantity": "2",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "ground anise",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "lemon zest",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "salt",
+                    "quantity": "",
+                    "unit": "a pinch"
+                }
+            ],
+            "instructions": [
+                "Beat the eggs with the sugar until pale, then add the oil and lemon zest.",
+                "Add the flour, baking powder, anise and salt and knead to a soft dough.",
+                "Fold in the almonds, raisins and sesame — gently, so the almonds stay whole.",
+                "Shape 3 long flat loaves about 7cm wide and set on a lined tray.",
+                "Bake at 180°C for about 25 minutes until lightly golden. Remove and cool 15 minutes — important, or they crumble when cut.",
+                "Slice on the diagonal 1cm thick, return to the tray and bake again at 150°C for about 20 minutes until fully dry."
+            ],
+            "tags": [
+                "fekkas",
+                "biscotti",
+                "almonds",
+                "parve",
+                "tea"
+            ]
+        },
+        {
+            "id": "date-walnut-balls",
+            "title": "Date and Walnut Balls",
+            "originalName": "كرات التمر بالجوز",
+            "description": "Dates, walnuts and orange blossom with no baking at all. A natural sweet that takes twenty minutes.",
+            "category": "Desserts & Sweets",
+            "kosherType": "Parve",
+            "image": "images/Date_Walnut_Balls.jpg",
+            "prepTime": 25,
+            "cookTime": 0,
+            "servings": 10,
+            "difficulty": "Easy",
+            "ingredients": [
+                {
+                    "name": "pitted medjool dates",
+                    "quantity": "500",
+                    "unit": "g"
+                },
+                {
+                    "name": "walnuts",
+                    "quantity": "1.5",
+                    "unit": "cups"
+                },
+                {
+                    "name": "toasted sesame",
+                    "quantity": "1/3",
+                    "unit": "cup"
+                },
+                {
+                    "name": "ground cinnamon",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "orange blossom water",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "orange zest",
+                    "quantity": "1",
+                    "unit": "tsp"
+                },
+                {
+                    "name": "vegetable oil",
+                    "quantity": "1",
+                    "unit": "tbsp"
+                },
+                {
+                    "name": "desiccated coconut or sesame for rolling",
+                    "quantity": "1/2",
+                    "unit": "cup"
+                }
+            ],
+            "instructions": [
+                "Toast the walnuts in a dry pan for 5 minutes until fragrant. Cool and chop roughly — keep half a cup aside.",
+                "Blitz the dates in a food processor to a sticky paste. If they are dry, soak in hot water 10 minutes and pat dry.",
+                "Add most of the walnuts, the cinnamon, orange zest, orange blossom water and oil. Pulse to an even mixture.",
+                "Fold in the reserved chopped walnuts and the sesame by hand, so some texture remains.",
+                "Roll into walnut-sized balls with slightly damp hands.",
+                "Roll in coconut or sesame and chill an hour to firm up. They keep two weeks in the fridge."
+            ],
+            "tags": [
+                "dates",
+                "walnuts",
+                "no-bake",
+                "parve",
+                "easy"
+            ]
+        }
+    ]
+}
