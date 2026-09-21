@@ -8,10 +8,7 @@ const RecipeData = (() => {
         recipes: [],
         filteredRecipes: [],
         searchQuery: '',
-        // The "all" sentinel is localized, so it is kept in state rather than
-        // hardcoded — otherwise nothing matches once the UI switches to English.
-        allLabel: 'הכל',
-        activeCategory: 'הכל',
+        activeCategory: '',
         categories: [],
         isLoaded: false,
     };
@@ -22,7 +19,7 @@ const RecipeData = (() => {
         if (!response.ok) throw new Error(`Failed to load recipes-${language}.json`);
         const data = await response.json();
         state.currentLang = language;
-        state.allLabel = language === 'he' ? 'הכל' : 'All';
+        state.allLabel = i18n.t('categories.all');
         // Categories are localized too, so a category picked in the other
         // language no longer exists — reset to "all" on every load.
         state.activeCategory = state.allLabel;
