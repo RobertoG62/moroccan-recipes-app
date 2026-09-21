@@ -101,9 +101,11 @@
         // Update hero title
         const heroTitle = document.querySelector('#hero h1');
         if (heroTitle) {
+            // The light variant, not --ma-primary: the hero sits on a dark photo,
+            // where the dark green measures 1.4-2.3:1. See governance/README.md.
             heroTitle.innerHTML = i18n.getLanguage() === 'he' ?
-                'המטבח <span class="text-ma-primary">המרוקאי</span>' :
-                '<span class="text-ma-primary">Moroccan</span> Kitchen';
+                'המטבח <span class="text-ma-primary-light">המרוקאי</span>' :
+                '<span class="text-ma-primary-light">Moroccan</span> Kitchen';
         }
 
         // Update hero subtitle
@@ -127,7 +129,7 @@
         // Update footer
         const footerText = document.querySelector('footer p');
         if (footerText) {
-            footerText.innerHTML = i18n.t('footer.tagline') + ' <span class="text-ma-primary mx-1"><i class="fas fa-heart"></i></span>';
+            footerText.innerHTML = i18n.t('footer.tagline') + ' <span class="text-ma-primary-light mx-1"><i class="fas fa-heart"></i></span>';
         }
 
         const backToHub = document.querySelector('footer a span');
